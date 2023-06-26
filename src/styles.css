@@ -75,7 +75,7 @@ section.secondary {
 }
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url('../images/woman.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), url('../images/garden-header.png');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -172,7 +172,7 @@ footer {
     color: white;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: linear-gradient(rgba(49, 96, 75, 0.6), rgba(49, 96, 75, 0.7)),url('../images/cat.JPG');
+    background-image: linear-gradient(rgba(49, 96, 75, 0.6), rgba(49, 96, 75, 0.7)),url('../images/garden-footer.png');
 }
 
 footer h3 {
